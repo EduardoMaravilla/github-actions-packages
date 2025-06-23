@@ -1,5 +1,5 @@
 {
-  "name": "github-actions-packages",
+  "name": "@EduardoMaravilla/github-actions-packages",
   "version": "1.0.0",
   "description": "A collection of GitHub Actions for managing packages in GitHub repositories.",
   "main": "index.js",
