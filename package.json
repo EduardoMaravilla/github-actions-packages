@@ -1,0 +1,29 @@
+{
+  "name": "github-actions-packages",
+  "version": "1.0.0",
+  "description": "A collection of GitHub Actions for managing packages in GitHub repositories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EduardoMaravilla/github-actions-packages.git"
+  },
+  "keywords": [],
+  "author": "Eduardo Maravilla",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EduardoMaravilla/github-actions-packages/issues"
+  },
+  "homepage": "https://github.com/EduardoMaravilla/github-actions-packages#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "canvas": "^3.1.1",
+    "chart.js": "^4.5.0",
+    "chartjs-node-canvas": "^5.0.0"
+  }
+}
